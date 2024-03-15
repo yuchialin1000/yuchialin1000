@@ -2,7 +2,7 @@
 - 👀 I’m interested in $\pi$
 - 🌱 I’m currently learning calculating $\pi$
 - 💞️ I’m looking to collaborate on finding $\pi$
-- 📫 How to reach me -> [`gmail`](mlmanga10000@gmail.com)
+- 📫 How to reach me -> <a href="mailto:mlmanga10000@gmail.com">`𝜋`</a>
 
 <!---
 yuchialin1000/yuchialin1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
